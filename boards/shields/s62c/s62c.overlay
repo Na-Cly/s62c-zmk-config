@@ -56,7 +56,7 @@
 
         transform = <&default_transform>;
 
-        keys  //                     w   h    x    y     rot    rx    ry
+                keys  //                     w   h    x    y     rot    rx    ry
             = <&key_physical_attrs 100 100    0   75       0     0     0>
             , <&key_physical_attrs 100 100  100   75       0     0     0>
             , <&key_physical_attrs 100 100  200   50       0     0     0>
@@ -99,7 +99,6 @@
             , <&key_physical_attrs 100 100  300  300       0     0     0>
             , <&key_physical_attrs 100 100  400  325       0     0     0>
             , <&key_physical_attrs 100 100  500  400       0     0     0>
-            , <&key_physical_attrs 100 100  800  525       0     0     0>
             , <&key_physical_attrs 100 100  925  400       0     0     0>
             , <&key_physical_attrs 100 100 1025  325       0     0     0>
             , <&key_physical_attrs 100 100 1125  300       0     0     0>
@@ -113,6 +112,7 @@
             , <&key_physical_attrs 100 100  400  425       0     0     0>
             , <&key_physical_attrs 100 100  500  500       0     0     0>
             , <&key_physical_attrs 100 100  625  525       0     0     0>
+            , <&key_physical_attrs 100 100  800  525       0     0     0>
             , <&key_physical_attrs 100 100  925  500       0     0     0>
             , <&key_physical_attrs 100 100 1025  425       0     0     0>
             , <&key_physical_attrs 100 100 1125  400       0     0     0>
