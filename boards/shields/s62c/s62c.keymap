@@ -12,7 +12,7 @@
 &kp TAB &kp Q &kp W &kp E &kp R &kp T                         &kp Y &kp U &kp I &kp O &kp P &kp BACKSLASH
 &none &kp A &kp S &kp D &kp F &kp G                           &kp H &kp J &kp K &kp L &kp SEMI &kp SINGLE_QUOTE
 &kp LSHFT &kp Z &kp X &kp C &kp V &kp B                       &kp N &kp M &kp COMMA &kp PERIOD &kp SLASH &kp RSHFT
-&kp LCTRL &none &kp LALT &kp GRAVE &kp EQUAL &kp BSPC &kp DELETE &kp ENTER &kp SPACE &kp LBKT &kp RBKT &kp HOME &kp END &studio_unlock
+&kp LCTRL &none &kp LALT &kp GRAVE &kp EQUAL &kp BSPC &kp F1 &kp F2 &kp SPACE &kp LBKT &kp RBKT &kp HOME &kp END &studio_unlock
             >;
         };
 
