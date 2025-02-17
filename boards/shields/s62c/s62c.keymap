@@ -1,15 +1,4 @@
-#include <behaviors.dtsi>
-#include <dt-bindings/zmk/keys.h>
 
-/ {
-    keymap {
-        compatible = "zmk,keymap";
-
-/*
- * Copyright (c) 2020 Derek Schmell
- *
- * SPDX-License-Identifier: MIT
- */
       
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/keys.h>
