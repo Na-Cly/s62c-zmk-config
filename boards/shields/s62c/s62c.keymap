@@ -20,24 +20,6 @@
                   , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
                   , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
                   , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
-                  , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
-                  , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
-                  , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
-                  , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
-                  , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
-                  , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
-                  , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
-                  , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
-                  , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
-                  , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
-                  , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
-                  , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
-                  , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
-                  , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
-                  , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
-                  , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
-                  , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
-                  , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
                 ;
         };
     };
