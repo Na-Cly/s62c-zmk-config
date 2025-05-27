@@ -12,14 +12,32 @@
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings
-                =  <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
-                  , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
-                  , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
-                  , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
-                  , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
-                  , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
-                  , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
-                  , <&macro_tap &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT &kp LSHFT>
+                =  <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
+                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
+                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
+                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
+                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
+                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
+                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
+                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
+                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
+                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
+                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
+                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
+                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
+                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
+                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
+                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
+                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
+                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
+                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
+                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
+                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
+                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
+                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
+                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
+                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
+                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
                 ;
         };
     };
