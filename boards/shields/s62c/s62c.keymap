@@ -86,7 +86,7 @@
 // | SHIFT |  Z  |  X  |  C   |  V   |  B   |                   |  N   |  M    |  ,    |  .   |   /   | SHIFT |
 // | LCTL  | LGUI  | LALT |  GRAV |  | EQL | DEL | BKSP|  | RET | SPC  | LBKT |  RBKT  | LBKT | HOME  |   END |
                         bindings = <
-&kp C_MUTE   &kp C_VOL_DN    &kp C_VOL_UP    &none    &none    &none                       &none   &none  &none  &none  &none  &to GAME
+&kp C_MUTE   &kp C_VOL_DN    &kp C_VOL_UP    &none    &bootloader    &sys_reset                       &none   &none  &none  &none  &none  &to GAME
 &none  &kp C_PREV     &kp C_PP   &kp C_NEXT     &none    &none                       &none   &none  &none  &none  &none  &to GAME2
 &none &none     &none     &none     &none    &none                     &none   &trans &none  &none  &none  &none
 &none &none     &none     &none     &none     &none                    &none   &none  &none  &none  &none  &none
