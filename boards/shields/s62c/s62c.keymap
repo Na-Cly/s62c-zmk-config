@@ -12,33 +12,134 @@
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings
-                =  <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                , <&macro_tap &kp N &kp N &kp N &kp N &kp N &kp N>
-                ;
+                =  <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+, <&macro_wait_time 40>
+, <&macro_tap &kp N>
+;
         };
     };
         keymap {
