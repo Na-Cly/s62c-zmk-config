@@ -6,6 +6,8 @@
 #define THREE 2
 #define GAME 3
 #define GAME2 4
+\{
+
         keymap {
 
                 compatible = "zmk,keymap";
